@@ -25,6 +25,7 @@ function Registration() {
                 </div>
                 <div>
                     <button type="submit">Register</button>
+                    <button type="reset">Reset</button>
                 </div>
             </form>
         </div>
